@@ -1,3 +1,9 @@
+**This repository is restored itmages/yii-eoauth**
+
+**Install package**
+
+`composer require krupni/yii-eoauth`
+
 Introduction
 ------------
 EOAuthUserIdentity class implements IUserIdentity Yii interface and the OAuth protocol to authenticate a user.
